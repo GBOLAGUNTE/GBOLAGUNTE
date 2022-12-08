@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-A Full-Stack Developer, proficient in front end development and back end web development. Comfortable coding with HTML, CSS, JavaScript and React  for the client-side and maintaining databases and infrastructure server-side using PHP and Laravel framework. Comfortable with using MySQL database in supporting my work in both development and production of code.
+A fullstack developer with a passion for technology and a strong desire to learn and grow. Skilled in problem-solving and adaptable to new technologies. Experience in building user-friendly web applications using a variety of programming languages and frameworks. Looking for opportunities to challenge myself and contribute to a successful team.
 
 
 ## 🌐 Socials:
